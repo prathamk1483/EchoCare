@@ -14,6 +14,10 @@ EchoCare is an innovative voice-based patient registration system designed to st
 
 - **NLP and ML Algorithms:** Incorporating Natural Language Processing and machine learning algorithms to understand and process voice inputs accurately.
 
+- ## Screenshots
+- ![Example Image](screenshot/vbprs1.png)
+
+
 ## Technologies Used
 
 ### Frontend
